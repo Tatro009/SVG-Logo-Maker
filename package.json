@@ -1,0 +1,25 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "description": "## Table of Contents * [What is the SVG Logo Maker](#what-is-the-SVG-Logo-Maker) * [Installation](#Installation) * [Usage](#Usage) * [Credits](#Credits) * [License](#license)",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,5 +1,7 @@
 # SVG-Logo-Maker
 
+Video demonstration can be found here: [Demo](https://app.screencastify.com/v3/watch/PCW2T5iSvK8jR42uELb0)
+
 ## Table of Contents
 * [What is the SVG Logo Maker](#what-is-the-SVG-Logo-Maker)
 * [Installation](#Installation)
